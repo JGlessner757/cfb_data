@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# cfb_data
-Using CFBD API to explore trends in college football.
-=======
-
 # College Football Data Analysis 🏈📊
 
 Welcome to the ultimate college football data repository! This project dives into the numbers behind college football using the [CollegeFootballData API](https://api.collegefootballdata.com/), with a focus on exploring trends, team stats, and historical insights. While our initial analysis showcases team wins since 2013, we’re just getting started—this repo is built to grow with tons of analytical possibilities in store. Whether you’re a die-hard fan of a storied team or nostalgic about the now-dissolved PAC-12, we’ve got something for you!
@@ -35,7 +30,7 @@ Stay tuned for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/college-football-data-analysis.git
+   git clone https://github.com/JGlessner757/cfb_data.git
    cd college-football-data-analysis
    ```
 
@@ -61,4 +56,3 @@ The [CollegeFootballData API](https://api.collegefootballdata.com/) requires an 
 ## 📊 Customization and Contributions
 
 This project is built to grow! Bring your favorite team, data ideas, or conference insights into the analysis. Contributions are welcome—whether you’re a Huskies fan, a PAC-12 aficionado, or just here for the love of the game, we’d love your help building this college football data powerhouse.
->>>>>>> 8246d8b (Initial commit - Add project files)
