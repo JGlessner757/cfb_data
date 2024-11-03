@@ -30,7 +30,7 @@ Stay tuned for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/college-football-data-analysis.git
+   git clone https://github.com/JGlessner757/cfb_data.git
    cd college-football-data-analysis
    ```
 
